@@ -1,4 +1,4 @@
-# e-commerce-online-store
+# e-commerce-HTML/CSS/Responsive
 ```diff
 It is a simple e-commerce responsive website 
 ```
